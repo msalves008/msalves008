@@ -1,4 +1,18 @@
 ### Hi there 👋
+💬 Sobre mim..
+Eu me chamo Matheus de Sousa Alves tenho 19 anos
+
+💼 Trabalho
+é atualmente trabalho como desenvolvedor RPA na @Drasi
+
+👨🏻‍💻 Interesses
+Possuo interesses em Desenvolvimento Front-End, Back-End e Desing
+
+💻 Tecnologias
+As tecnologias que gosto de trabalhar ou estou tendo maior interesse
+em trabalhar atualmente são:
+
+- NodeJS - Java - React - Mysql
 
 <!--
 **msalves008/msalves008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
