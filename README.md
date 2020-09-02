@@ -6,7 +6,7 @@
 <br>atualmente trabalho como desenvolvedor RPA na @Drasi
 
 👨🏻‍💻 Interesses
-<br>Possuo interesses em Desenvolvimento Front-End, Back-End e Desing
+<br>Possuo interesses em Desenvolvimento Front-End, Back-End e Design
 
 💻 Tecnologias
 <br>As tecnologias que gosto de trabalhar ou estou tendo maior interesse
