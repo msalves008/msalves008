@@ -1,12 +1,12 @@
 ### Hi there 👋
 💬 Sobre mim..
-<br>Eu me chamo Matheus de Sousa Alves tenho 19 anos
+<br>Eu me chamo Matheus de Sousa Alves tenho 20 anos
 
 💼 Trabalho
 <br>atualmente trabalho como desenvolvedor RPA na @Drasi
 
 👨🏻‍💻 Interesses
-<br>Possuo interesses em Desenvolvimento Front-End, Back-End e Design
+<br>Possuo interesses em Desenvolvimento Front-End,mas também tenho algumas habilidades de desenvolvimento Back-End
 
 💻 Tecnologias
 <br>As tecnologias que gosto de trabalhar ou estou tendo maior interesse
