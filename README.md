@@ -11,7 +11,7 @@
 💻 Tecnologias
 <br>As tecnologias que gosto de trabalhar ou estou tendo maior interesse
 em trabalhar atualmente são:<br>
-- NodeJS - Java - Flutter - Mysql
+- NodeJS - Flutter - ReactJS - Mysql - Postgres
 
 <!--
 **msalves008/msalves008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
