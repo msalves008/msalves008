@@ -3,11 +3,6 @@ Me chamo Matheus Alves, atualmente trabalho como Desenvolvedor RPA e Desenvolved
 
 A programação é uma das profissões que mais identifiquei, pois, a cada dia acabo deparando com novos desafios e metas que ao serem cumpridas me dão uma ótima sensação de dopamina, trazendo uma grade satisfação de dever cumprido ao final do dia. <br>
 
-
- 👨🏻‍💻 Objetivos Profissionais 
-
-Aprimorar meus conhecimentos como desenvolvedor Front-End (Web/mobile) nas stack relacionadas em JavaScript (Nodejs, TypeScript, ReactJs, NextJs, React Native)<br>
-
 💻 Contato<br>
 Linkedin: [www.linkedin.com/in/msalves008](https://www.linkedin.com/in/msalves008/)<br>
 Telefone: +55 62 99632-3360<br>
