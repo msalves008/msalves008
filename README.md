@@ -1,5 +1,5 @@
 💬 Olá seja bem-vindo(a), é um enorme prazer em ter você aqui,
-Me chamo Matheus Alves, atualmente trabalho como Desenvolvedor RPA e Desenvolvedor Front-End nós horários vagos, tive contato com programação no início da minha graduação em 2018 desde então isso vem fazendo parte do meu dia a dia até hoje. <br>
+Me chamo Matheus Alves, atualmente trabalho como Desenvolvedor Front-End , tive contato com programação no início da minha graduação em 2018 desde então isso vem fazendo parte do meu dia a dia até hoje. <br>
 
 A programação é uma das profissões que mais identifiquei, pois, a cada dia acabo deparando com novos desafios e metas que ao serem cumpridas me dão uma ótima sensação de dopamina, trazendo uma grade satisfação de dever cumprido ao final do dia. <br>
 
