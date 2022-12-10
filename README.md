@@ -1,7 +1,13 @@
-💬 Olá seja bem-vindo(a), é um enorme prazer em ter você aqui,
-Me chamo Matheus Alves, atualmente trabalho como Desenvolvedor Front-End , tive contato com programação no início da minha graduação em 2018 desde então isso vem fazendo parte do meu dia a dia até hoje. <br>
+💬 Sobre mim<br>
 
-A programação é uma das profissões que mais identifiquei, pois, a cada dia acabo deparando com novos desafios e metas que ao serem cumpridas me dão uma ótima sensação de dopamina, trazendo uma grade satisfação de dever cumprido ao final do dia. <br>
+- Olá seja bem-vindo(a), é um enorme prazer em ter você aqui, Me chamo Matheus Alves, tive contato com programação no início da minha graduação em 2018 desde então isso vem fazendo parte do meu dia a dia até hoje. Atualmente sigo trabalhando como Desenvolvimento Web Front-End com as Stacks baseadas em JavaScript (ReactJs, NextJs, TypeScript, Styled Components).
+
+
+🧑🏻‍💻 Tecnologias em que estou focado no momento:<br>
+
+- JavaScript, TypeScript, ReactJs, NextJs;<br>
+- PostgreSQL, MySQL, MongoDB;<br><br>
+
 
 💻 Contato<br>
 Linkedin: [www.linkedin.com/in/msalves008](https://www.linkedin.com/in/msalves008/)<br>
