@@ -1,14 +1,10 @@
 💬 Sobre mim<br>
 
-- Olá seja bem-vindo(a), é um enorme prazer em ter você aqui, Me chamo Matheus Alves, tive contato com programação no início da minha graduação em 2018 desde então isso vem fazendo parte do meu dia a dia até hoje. Atualmente sigo trabalhando como Desenvolvimento Web Front-End com as Stacks baseadas em JavaScript (ReactJs, NextJs, TypeScript, Styled Components).
+- Sou formando em Sistemas de Informação pela Unifasam (GO) e atualmente trabalho como desenvolvedor frontend, focado em tecnologias como ReactJS e NextJS, visando entregar aplicações sofisticadas e escaláveis.
 
-
-🧑🏻‍💻 Tecnologias em que estou focado no momento:<br>
-
-- JavaScript, TypeScript, ReactJs, NextJs;<br>
-- PostgreSQL, MySQL, MongoDB;<br><br>
+- A programação é uma paixão para mim e sempre busco me manter atualizado em relação ao mercado e às últimas tendências em tecnologia. Gosto de estar sempre aprendendo e explorando novas ferramentas e soluções que possam me ajudar a criar aplicativos web ainda melhores.<br>
 
 
 💻 Contato<br>
-Linkedin: [www.linkedin.com/in/msalves008](https://www.linkedin.com/in/msalves008/)<br>
-E-mail: msalves008@gmail.com<br>
+- Linkedin: [www.linkedin.com/in/msalves008](https://www.linkedin.com/in/msalves008/)<br>
+- E-mail: msalves008@gmail.com<br>
