@@ -7,4 +7,4 @@
 
 💻 Contato<br>
 - Linkedin: [www.linkedin.com/in/msalves008](https://www.linkedin.com/in/msalves008/)<br>
-- E-mail: msalves008@gmail.com<br>
+
