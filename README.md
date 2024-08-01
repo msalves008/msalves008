@@ -1,8 +1,6 @@
 💬 Sobre mim<br>
 
-- Sou formando em Sistemas de Informação pela Unifasam (GO) e atualmente trabalho como desenvolvedor frontend, focado em ReactJS e NextJS, visando entregar aplicações sofisticadas e escaláveis.
-
-- A programação é uma paixão para mim e sempre busco me manter atualizado em relação ao mercado e às últimas tendências em tecnologia. Gosto de estar sempre aprendendo e explorando novas ferramentas e soluções que possam me ajudar a criar aplicativos web ainda melhores.<br>
+- Sou desenvolvedor Front-End formado em Sistemas de Informação com experiência em ReactJS, NextJS e TypeScript. Possuo forte conhecimento em desenvolvimento de interfaces de usuário, otimização de performance e integração com APIs externas. Tenho experiência em trabalhar com metodologias ágeis e ferramentas modernas como Figma e Git. Busco sempre me atualizar com as últimas tendências em tecnologia e aprimorar minhas habilidades técnicas.<br>
 
 
 💻 Contato<br>
