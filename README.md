@@ -1,6 +1,6 @@
 💬 Sobre mim<br>
 
-- Sou desenvolvedor Front-End formado em Sistemas de Informação com experiência em ReactJS, NextJS e TypeScript. Possuo forte conhecimento em desenvolvimento de interfaces de usuário, otimização de performance e integração com APIs externas. Tenho experiência em trabalhar com metodologias ágeis e ferramentas modernas como Figma e Git. Busco sempre me atualizar com as últimas tendências em tecnologia e aprimorar minhas habilidades técnicas.<br>
+- Sou desenvolvedor Front-End formado em Sistemas de Informação, com experiência em ReactJS, NextJS e TypeScript. Possuo forte conhecimento em desenvolvimento de interfaces de usuário, otimização de performance e integração com APIs externas. Tenho experiência em metodologias ágeis. Busco me manter atualizado com as últimas tendências em tecnologia e aprimorar minhas habilidades técnicas.<br>
 
 
 💻 Contato<br>
